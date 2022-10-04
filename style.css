@@ -68,7 +68,7 @@ body {
 }
 .card_caption_design:hover {
   color: white;
-  text-decoration: underline;
+  text-decoration: none;
 }
 .card_caption_design2 {
   text-decoration: none;
@@ -137,23 +137,7 @@ body {
     margin-left: -1.9rem;
   }
 }
-@media only screen and (max-width: 767px) {
-  .imageadjust {
-    content: url(./images/disney_birthday_small.png);
-  }
-  .imageadjust1 {
-    content: url(./images/disneyjr-memorablemoments-small.jpeg);
-  }
-  .imageadjust2 {
-    content: url(./images/djindia_small.jpeg);
-  }
-  .imageadjust3 {
-    content: url(./images/disney_movies_small.png);
-  }
-  .menulogo {
-    content: url(./images/disney-logo6628.png);
-  }
-}
+
 @media only screen and (max-width: 575px) {
   .imagecardadjust {
     content: url(./images/pogo_small.jpeg);
